@@ -1,4 +1,4 @@
-# SA-RoadScenes
+# SA-RoadScenes Dataset
 Saudi Arabia's road scenes dataset for semantic segmentation.
 This dataset is part of my master thesis work.
 
